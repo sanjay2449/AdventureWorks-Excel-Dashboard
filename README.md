@@ -1,6 +1,9 @@
 # 🚴 AdventureWorks Executive Sales Dashboard | Excel Data Analytics Project
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview]
+
+<img width="1464" height="728" alt="Dashboard_Screenshot png" src="https://github.com/user-attachments/assets/8d67b0e6-86db-435f-a148-d1237d5e2c1e" />
+
 
 ## 📌 Project Overview
 
